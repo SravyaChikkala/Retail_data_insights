@@ -32,3 +32,15 @@ Results:
 Provided actionable insights to optimize discount strategies and focus on high-performing categories for better profitability.
 ![Sales by Region](sales_by_region.png)
 
+🧩 Power BI Dashboard
+
+An interactive Retail Sales Performance Dashboard built in Power BI to visualize insights derived from the dataset.
+
+Key Highlights:
+
+KPI cards showing total Sales, Profit, Quantity, and Average Discount
+
+Visuals for Sales by Region, Sales by Category, Top Sub-Categories, Sales Trend, and Profit vs Discount
+
+Interactive slicers for Region, Category, and Year
+
